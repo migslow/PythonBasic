@@ -1,2 +1,2 @@
 # PythonBasic
-Este repositorio es para aprender Python Basico
+This repository is to learn Basic Python
